@@ -1,0 +1,8 @@
+numpy
+matplotlib
+nltk
+pandas
+pytest
+sklearn
+torch
+torchvision

@@ -1,0 +1,12 @@
+{
+    "score": 50,
+    "tests_passed": 2,
+    "notes": {
+        "test_dog_classifier_conv": "PASS",
+        "test_synth_classifier": "PASS",
+        "test_dbpedia": "FAIL",
+        "test_extracredit_dbpedia": "FAIL",
+        "test_agn": "FAIL",
+        "test_extracredit_agn": "FAIL"
+    }
+}
